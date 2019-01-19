@@ -12,4 +12,8 @@ public class Calculator {
         return num1*num2;
     }
 
+    public static double divide (double num3, double num4){
+        double result = num3/num4;
+        return result;
+    }
 }
